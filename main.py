@@ -28,4 +28,4 @@ moreTools.typeWriter("The quick brown fox jumps over the lazy dog", 0.05)
 e = moreTools.scrapeLinks("https://www.example.com")
 print(e)
 
-moreTools.scrapeImages("https://www.boeken.uk/loic", open_in_browser=True)
+moreTools.scrapeImages("https://picsum.photos/200", open_in_browser=True)
